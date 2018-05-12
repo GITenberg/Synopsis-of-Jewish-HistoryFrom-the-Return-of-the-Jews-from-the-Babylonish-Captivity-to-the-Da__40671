@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40763'
     url: http://www.gutenberg.org/2009/agents/40763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40671#Synopsis-of-Jewish-HistoryFrom-the-Return-of-the-Jews-from-the-Babylonish-Captivity-to-the-Da_
 gutenberg_issued: '2012-09-05'
 gutenberg_type: Text
 identifiers:
